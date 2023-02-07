@@ -1,0 +1,8 @@
+.rama{
+    width: 200px;
+    height: 200px;
+    border-top: 5px solid tomato;
+    border-bottom: 5px solid tomato;
+    border-left: 3px dashed black;
+    border-right: 7px double green;
+}
